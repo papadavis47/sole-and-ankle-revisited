@@ -1,3 +1,5 @@
+// These constants that Comeau sets up are brilliant. I want to do this too!
+
 export const COLORS = {
   white: "hsl(0deg 0% 100%)",
   gray: {
